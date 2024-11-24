@@ -1,0 +1,23 @@
+.cards {
+    width: 341px;
+}
+
+.cards__title {
+    font-size: 20px;
+    margin: 0;
+}
+
+.cards__link {
+    text-decoration: none;
+    color: #0066ff;
+}
+
+.cards__link:hover {
+    color: #003d98;
+}
+
+.cards__text {
+    font-size: inherit;
+    margin: 0;
+    padding: 10px 0 0 0;
+}

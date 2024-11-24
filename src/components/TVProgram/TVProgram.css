@@ -1,0 +1,45 @@
+.program {
+    width: 341px;
+    padding: 20px 0 0 0;
+}
+
+.program__title {
+    font-size: 20px;
+    margin: 0 10px 0 0;
+}
+
+.program__link {
+    text-decoration: none;
+    color: #0066ff;
+}
+
+.program__link:hover {
+    text-decoration: none;
+    color: #0066ff;
+}
+
+.program__icon {
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 30px;
+    width: 100%;
+    height: 30px;
+}
+
+.program__wrapper {
+    display: flex;
+}
+
+.program__item {
+    display: flex;
+    padding: 10px 0 0 0;
+}
+
+.program__text {
+    margin: 0 0 0 7px;
+}
+
+.program__text:last-of-type {
+    color: rgb(170, 170, 170);
+}
